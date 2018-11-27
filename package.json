@@ -8,15 +8,22 @@
   },
   "dependencies": {
     "express": "^4.13.3",
-    "socket.io": "^2.1.1"
   },
   "engines": {
     "node": "8.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
+  ],
+  "author": "Mark Pundsack",
+  "contributors": [
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
   "license": "MIT"
 }
