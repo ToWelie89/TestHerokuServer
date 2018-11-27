@@ -1,6 +1,6 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-sample",
-  "keywords": ["node", "express", "static"]
+  "name": "Node.js Socket.io Example",
+  "description": "Part of the Using WebSockets on Heroku Tutorial",
+  "repository": "https://github.com/heroku-examples/node-socket.io",
+  "keywords": ["node", "websocket", "socket.io"]
 }
